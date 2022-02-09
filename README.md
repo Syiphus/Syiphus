@@ -1,1 +1,1 @@
-Studying Electronics and Computer Engineering. 20 From Portugal.
+Welcome to my profile, all the code was created for Electronics and Computer Engineering course in ISEP.
